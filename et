@@ -1,0 +1,42 @@
+* [33mcommit bc78599c724e7147075fa151f6adfec387047638[m[33m ([m[1;32mfeature[m[33m)[m
+[31m|[m Author: Ayush <ayush2006xr@gmail.com>
+[31m|[m Date:   Thu Nov 7 18:17:57 2024 +0530
+[31m|[m 
+[31m|[m     hello file modified
+[31m|[m   
+[31m|[m * [33mcommit 254068be7e1db91079d1f42cdf57c2b93021bf19[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+[31m|[m[31m/[m  Author: Ayush <ayush2006xr@gmail.com>
+[31m|[m   Date:   Thu Nov 7 18:13:47 2024 +0530
+[31m|[m   
+[31m|[m       hey file modified
+[31m|[m   
+[31m|[m * [33mcommit 2e7674d69d4bf1d124ac79bb852cc02e182cbddd[m[33m ([m[1;35mrefs/stash[m[33m)[m
+[31m|[m[31m/[m[34m|[m Merge: cb8d021 67e7b94
+[31m|[m [34m|[m Author: Ayush <ayush2006xr@gmail.com>
+[31m|[m [34m|[m Date:   Thu Nov 7 18:06:56 2024 +0530
+[31m|[m [34m|[m 
+[31m|[m [34m|[m     WIP on feature: cb8d021 hey file edited
+[31m|[m [34m|[m 
+[31m|[m * [33mcommit 67e7b94a0af5e507a1845d02487e0f9779f6e823[m
+[31m|[m[31m/[m  Author: Ayush <ayush2006xr@gmail.com>
+[31m|[m   Date:   Thu Nov 7 18:06:56 2024 +0530
+[31m|[m   
+[31m|[m       index on feature: cb8d021 hey file edited
+[31m|[m 
+* [33mcommit cb8d021b0116a9401a72d310c284dd64fb55401e[m
+[34m|[m Author: Ayush <ayush2006xr@gmail.com>
+[34m|[m Date:   Wed Nov 6 23:00:41 2024 +0530
+[34m|[m 
+[34m|[m     hey file edited
+[34m|[m 
+* [33mcommit ce546f3ba3cedb01eafa52f4346c85ce05b70a7d[m
+[34m|[m Author: Ayush <ayush2006xr@gmail.com>
+[34m|[m Date:   Wed Nov 6 22:49:41 2024 +0530
+[34m|[m 
+[34m|[m     second file added
+[34m|[m 
+* [33mcommit 19295bbd8926d9f575c4f7d94ed7ec355512ea42[m
+  Author: Ayush <ayush2006xr@gmail.com>
+  Date:   Wed Nov 6 18:46:38 2024 +0530
+  
+      Initial Commit
